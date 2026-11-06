@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+#Virtual env
+venv/
+.venv/
+
+#Env var
+.env
+.env.*
+
+#IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
